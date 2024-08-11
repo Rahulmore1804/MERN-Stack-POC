@@ -1,0 +1,26 @@
+.selecter {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .box2 {
+    background-color: rgb(163, 154, 142);
+    width: 35vw;
+    height: 50px;
+    border-bottom-right-radius: 20px;
+  
+    border-top-right-radius: 20px;
+  }
+  .box1 {
+    background-color: rgb(163, 154, 142);
+    width: 35vw;
+  
+    height: 50px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    margin: 2px;
+  }
+  

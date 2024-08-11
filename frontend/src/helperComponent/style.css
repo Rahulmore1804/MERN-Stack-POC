@@ -1,0 +1,54 @@
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 0px 50px 0px 20px;
+}
+.hp1{
+    width: 50vw;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    color: var(--body-color);
+  
+}
+.hp2{
+    width: 50vw;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    flex-direction: row-reverse;
+    color: var(--body-color);
+  
+}
+p{
+    margin: 25px;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.header{
+    border-bottom: 2px solid rgb(113, 46, 46);
+flex-direction: row;
+display: flex;
+}
+.ll{
+    /* position: absolute;
+bottom: 0px; */
+position: absolute;
+/* bottom: 169px; */
+top: 55px;
+left: 133px;
+background-color: gray;
+border-radius: 2px;
+}
+.ll1{
+    /* position: absolute;
+bottom: 0px; */
+position: absolute;
+/* bottom: 169px; */
+top: 75px;
+left: 133px;
+background-color: gray;
+border-radius: 2px;
+}

@@ -1,0 +1,6 @@
+.offerh{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #4fbebe;
+}
